@@ -44,12 +44,5 @@ worldcup-dashboard/
 
 ---
 
-## How to Use
-1. Download the `.pbix` file
-2. Open in Power BI Desktop
-3. Explore the dashboard visuals and filters
-
----
-
 ## Author
 Priya Vishwakarma
